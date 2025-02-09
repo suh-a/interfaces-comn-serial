@@ -35,8 +35,7 @@ Exibir no display SSD1306 uma mensagem informando o estado do LED.
 Enviar um texto descritivo para o Serial Monitor.
 
 ## 🎥 Link para Vídeo Demonstrativo
-
-[Adicionar link do vídeo aqui]
+https://drive.google.com/file/d/1sHPEim84ud_yzAHf2XItK1k_GEdp3SxW/view?usp=sharing
 
 ## 📌 Considerações Finais
 
